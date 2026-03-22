@@ -1,2 +1,11 @@
-# AI-Agent-Project
-Related with AI Agent (Testing, Tools)
+# 250731-형태소 분석 기반 발화 유사도 분석
+
+형태소 분석 결과를 기반으로 사용자 발화 간 유사도를 계산하고, 라벨/토큰 단위 비교를 실험하기 위한 저장소입니다.
+
+## 포함 자산
+- `250731_학습데이터_형태소분석기.ipynb`
+- `형태소분석기_기반_사용자_발화_유사도_분석(2).ipynb`
+
+## 분리 이력
+- `260212_feeling_traker` -> 별도 저장소로 분리
+- `Prompt Auto Evaluation` -> `250731_prompt_auto_evaluation` 저장소로 분리
